@@ -8,6 +8,8 @@ This multipart tutorial is a structured, follow-along project that guides the de
 # Assets #
 [Soccer Course Assets](https://github.com/nicolasbize/soccer-course-assets/blob/main/assets.zip) by [The GameDev Tavern](https://nicolasbize.com/blog/) ([GitHub](https://github.com/nicolasbize))
 
+![Sprite Asset](assets/art/characters/soccer-player.png)
+
 # Create a Godot task #
 <ins> What application is this task for? </ins>
 <br>

@@ -1,4 +1,4 @@
-[![Static Badge](https://img.shields.io/badge/Godot%20Engine-4.3-blue?style=plastic&logo=godotengine)](https://godotengine.org/) ![GitHub top language](https://img.shields.io/github/languages/top/Chaotic-Legend/2D-Movement-Tutorial?logo=godotengine)
+[![Static Badge](https://img.shields.io/badge/Godot%20Engine-4.6.2-blue?style=plastic&logo=godotengine)](https://godotengine.org/) ![GitHub top language](https://img.shields.io/github/languages/top/Chaotic-Legend/Soccer-Course?logo=godotengine)
 
 # Soccer Course | Project Touchstone #
 [Tutorial: Create a Soccer Game in Godot](https://youtube.com/playlist?list=PLNNbuBNHHbNEEQJE5od1dyNE_pqIANIww&si=N_rNExMx6H_undIZ) by [The GameDev Tavern](https://gadgaming.itch.io/) ([YouTube](https://www.youtube.com/@GameDevTavern))
